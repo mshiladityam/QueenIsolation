@@ -11,3 +11,7 @@ The rules of the game are:
       b) They cannot cross over already visited squares (squeezing through them diagonally is OK).
       c) They cannot cross over each other’s piece.
 5) The player, who cannot move in his turn, loses.
+
+In this project, I used Minimax Algorithm with Alpha-Beta Pruning to make the GameEngine in C++ 
+
+I made the game interface using PyGame.
