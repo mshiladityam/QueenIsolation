@@ -15,3 +15,5 @@ The rules of the game are:
 In this project, I used Minimax Algorithm with Alpha-Beta Pruning to make the GameEngine in C++ 
 
 I made the game interface using PyGame.
+
+![Gameplay](/gameplay.png)
