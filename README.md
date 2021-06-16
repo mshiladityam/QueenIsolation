@@ -25,4 +25,4 @@ to performance considerations, C++ is the best choice.
 
 For the game interface I used PyGame, a module in Python.
 
-![Gameplay](/GameplayGIF.gif)
+![Gameplay](/GameplayGIF1.gif)
